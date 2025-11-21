@@ -1,0 +1,33 @@
+.not-found-cart{
+    height: 100px;
+    width: 50%;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 80px;  
+}
+.item-cart{
+ box-shadow: 10px 10px 10px 10px gray;
+ margin: 10px;
+ height: 300px;
+ width: 250px;
+ text-align: center;
+}
+.chobi{
+  height: 200px;
+  width: 200px ;
+}
+.input-feild{
+  box-shadow: 10px 10px 10px 10px gray;
+  border-radius: 10px;
+}
+.details-cart{
+  margin:0px 0px 0px 200px;
+  justify-items: center;
+  height: 540px;
+  width: 400px;
+  box-shadow: 10px 10px 10px 10px gray;
+}
+.details-chobi{
+  height:230;
+  width: 400px;
+}
